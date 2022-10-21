@@ -1,4 +1,4 @@
-# Welcome Amigos！ 👋
+# Hello Amigos！ 👋
 
 ### Github Stats 📈
 
